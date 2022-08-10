@@ -1,0 +1,71 @@
+    1  sudo yum update
+
+    2  sudo yum update -y
+
+    3  python --version
+
+    4  ll
+
+    5  ls -latr 
+
+    6  less .bash_profile 
+
+    7  cat .bash_profile 
+
+    8  sudo amazon-linux-extras install java-openjdk11 -y
+
+    9  sudo yum install java-1.8.0-openjdk
+
+   10  java -version
+
+   11  sudo amazon-linux-extras install java-openjdk11 -y
+
+   12  java -v
+
+   13  java -version
+
+   14  alternatives --config java
+
+   15  java -version
+
+   16  alternatives --config java
+
+   17  sudo alternatives --config java
+
+   18  java -version
+
+   19  sudo alternatives --config java
+
+   20  java -version
+
+   21  python --version
+
+   22  sudo yum install python37
+
+   23  python3 --version
+
+   24  sudo wget -O /etc/yum.repos.d/jenkins.repo  https://pkg.jenkins.io/redhat-stable/jenkins.repo
+
+   25  sudo rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io.key
+
+   26  sudo yum upgrade
+
+   27  sudo yum install jenkins -y
+
+   28  history | -n 8-
+
+   29  history 
+
+   30  sudo systemctl start jenkins
+
+   31  sudo systemctl enable jenkins
+
+   32  sudo systemctl start jenkins
+
+   33  sudo systemctl status jenkins
+
+   34  sudo systemctl stop jenkins
+
+   35  sudo systemctl status jenkins
+
+   36  history
