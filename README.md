@@ -6,8 +6,8 @@ Course-2_Prj-1  Launch an EC2 instance using Terraform
 - 3. Go to AWS -> IAM -> create user
 '''
     add user "devops" with "admin" permission. 
-        Access key ID ==  AKIA2UKO5EL5RJ2NMB55 
-Secret access key ==  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
+    Access key ID ==  AKIA2UKO5EL5RJ2NMB55 
+    Secret access key ==  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
 '''
 - 4. setup AWS profile 	
 '''
